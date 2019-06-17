@@ -1,2 +1,3 @@
-# K-Mean-Algorithm-in-Parallal-Computing
-K-Mean algorithm High performance Computing
+# K-Mean-Algorithm-in-Parallal-Computing in C++
+k-means clustering algorithm is popular for cluster analysis in data mining. k-means clustering aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean .
+
